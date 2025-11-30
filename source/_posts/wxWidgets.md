@@ -1,7 +1,8 @@
 ---
 title: wxWidgets
 date: 2025-06-14 17:34:29
-tags:
+tags: [GUI, wxWidgets]
+categories: [工具库]
 ---
 
 ### wxWidgets 编译及 demo 工程创建
